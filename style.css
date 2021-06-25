@@ -1,6 +1,17 @@
 body {
     margin: 0%;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+}
+
+h1 {
+    font-weight: lighter;
+    color: white;
+    margin: 10px 10px 10px 10px;
+}
+
+.icon {
+    border-radius: 50%;
 }
 
 .container {
